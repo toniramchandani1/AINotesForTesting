@@ -18,3 +18,17 @@
 - https://assets.datacamp.com/blog_assets/PandasPythonForDataScience.pdf
 - https://www.webpages.uidaho.edu/~stevel/504/Pandas%20DataFrame%20Notes.pdf
 - https://github.com/pandas-dev/pandas/blob/main/doc/cheatsheet/Pandas_Cheat_Sheet.pdf
+
+---
+## CUDA
+
+- https://www.olcf.ornl.gov/wp-content/uploads/2013/02/Intro_to_CUDA_C-TS.pdf
+- https://web.archive.org/web/20160729221949/https://docs.nvidia.com/cuda/samples/6_Advanced/reduction/doc/reduction.pdf
+- https://www.ce.jhu.edu/dalrymple/classes/602/Class13.pdf
+
+---
+## Machine Learning
+
+-
+
+
