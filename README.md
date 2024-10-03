@@ -104,3 +104,35 @@
 - 7 Ways to Evaluate and Monitor LLMs - WhyLabs. https://whylabs.ai/blog/posts/7-ways-to-evaluate-and-monitor-llms.
 - Evaluating Large Language Models: Methods, Best Practices & Tools - Lakera. https://www.lakera.ai/blog/large-language-model-evaluation.
 - https://doi.org/10.48550/arXiv.2310.19736.
+
+---
+
+## Prompt engineering
+
+-Prompt Engineering for Generative AI | Machine Learning - Google Developers. https://developers.google.com/machine-learning/resources/prompt-eng.
+- dair-ai/Prompt-Engineering-Guide - GitHub. https://github.com/dair-ai/Prompt-Engineering-Guide.
+- 3 New Prompt Engineering Resources to Check Out - KDnuggets. https://www.kdnuggets.com/3-new-prompt-engineering-resources.
+- Prompt Engineering Guide | Prompt Engineering Guide. https://www.promptingguide.ai/.
+- Awesome Prompt Engineering ‍♂️ - GitHub. https://github.com/promptslab/Awesome-Prompt-Engineering. 
+
+---
+
+## Vector databases:
+
+- The 5 Best Vector Databases | A List With Examples - DataCamp. https://www.datacamp.com/blog/the-top-5-vector-databases.
+- What is a Vector Database? - Vector Databases Explained - AWS. https://aws.amazon.com/what-is/vector-databases/.
+- What is a vector database? - Cloudflare. https://www.cloudflare.com/learning/ai/what-is-vector-database/.
+- Vector database | Microsoft Learn. https://learn.microsoft.com/en-us/azure/cosmos-db/vector-database.
+- Vector Databases Explained: The Backbone of Modern Semantic ... - Airbyte. https://airbyte.com/data-engineering-resources/vector-databases.
+
+---
+
+## Retrieval-Augmented Generation (RAG)
+
+- What is RAG? - Retrieval-Augmented Generation AI Explained - AWS. https://aws.amazon.com/what-is/retrieval-augmented-generation/.
+- What is Retrieval-Augmented Generation (RAG) - GeeksforGeeks. https://www.geeksforgeeks.org/what-is-retrieval-augmented-generation-rag/.
+- What Is Retrieval-Augmented Generation, aka RAG? - NVIDIA Blog. https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/.
+- Retrieval-augmented Generation (RAG): A Comprehensive Guide - DataStax. https://www.datastax.com/guides/what-is-retrieval-augmented-generation.
+- Retrieval-augmented generation - Wikipedia. https://en.wikipedia.org/wiki/Retrieval-augmented_generation.
+
+---
