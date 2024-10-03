@@ -67,10 +67,40 @@
 - Bookdown: Authoring Books and Technical Documents with R Markdown: [https://bookdown.org/](https://bookdown.org/)
 
 ---
+
 ## Deep Learning Neural Networks
+
 - Deep Learning Neural Networks Explained in Plain English. https://www.freecodecamp.org/news/deep-learning-neural-networks-explained-in-plain-english/.
 - Deep learning - Wikipedia. https://en.wikipedia.org/wiki/Deep_learning.
 - What Is Deep Learning? - IBM. https://www.ibm.com/topics/deep-learning.
 - Difference between a Neural Network and a Deep Learning System. https://www.geeksforgeeks.org/difference-between-a-neural-network-and-a-deep-learning-system/.
 
+---
 
+## Generative AI
+
+- Research with Generative AI - Generative AI @ Harvard - Harvard University. https://www.harvard.edu/ai/research-resources/.
+- Generative AI Resources - Wharton AI & Analytics Initiative. https://ai-analytics.wharton.upenn.edu/generative-ai-lab/resources/.
+- 11 Best Generative AI Tools and Platforms in 2024 - Turing. https://www.turing.com/resources/generative-ai-tools.
+- List of Generative AI Resources - Analytics Vidhya. https://www.analyticsvidhya.com/blog/2024/01/ultimate-list-of-generative-ai-resources/.
+- Generative AI Resources for Faculty – University Center for Teaching .... https://teaching.pitt.edu/generative-ai-resources-for-faculty/.
+
+---
+
+## LLM
+
+- Free Resources to Master LLMs - Roadmap. https://roadmap.sh/guides/free-resources-to-learn-llms.
+- A Comprehensive List of Resources to Master Large Language Models. https://www.kdnuggets.com/a-comprehensive-list-of-resources-to-master-large-language-models.
+- 8 Top Open-Source LLMs for 2024 and Their Uses - DataCamp. https://www.datacamp.com/blog/top-open-source-llms.
+
+---
+
+##  Evaluating LLMs
+
+- Evaluating Large Language Models: A Comprehensive Survey. https://arxiv.org/abs/2310.19736.
+- LLM Evaluations: Techniques, Challenges, and Best Practices. https://labelstud.io/blog/llm-evaluations-techniques-challenges-and-best-practices/.
+- Best Resources to Learn & Understand Evaluating LLMs. https://towardsai.net/p/data-science/best-resources-to-learn-understand-evaluating-llms.
+- LLM Evaluation Metrics : A Complete Guide to Evaluating LLMs. https://aisera.com/blog/llm-evaluation/.
+- 7 Ways to Evaluate and Monitor LLMs - WhyLabs. https://whylabs.ai/blog/posts/7-ways-to-evaluate-and-monitor-llms.
+- Evaluating Large Language Models: Methods, Best Practices & Tools - Lakera. https://www.lakera.ai/blog/large-language-model-evaluation.
+- https://doi.org/10.48550/arXiv.2310.19736.
