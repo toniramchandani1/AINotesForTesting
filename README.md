@@ -66,5 +66,11 @@
 - TensorFlow Learning Resources: [https://www.tensorflow.org/resources/learn-ml](https://www.tensorflow.org/resources/learn-ml)
 - Bookdown: Authoring Books and Technical Documents with R Markdown: [https://bookdown.org/](https://bookdown.org/)
 
+---
+## Deep Learning Neural Networks
+- Deep Learning Neural Networks Explained in Plain English. https://www.freecodecamp.org/news/deep-learning-neural-networks-explained-in-plain-english/.
+- Deep learning - Wikipedia. https://en.wikipedia.org/wiki/Deep_learning.
+- What Is Deep Learning? - IBM. https://www.ibm.com/topics/deep-learning.
+- Difference between a Neural Network and a Deep Learning System. https://www.geeksforgeeks.org/difference-between-a-neural-network-and-a-deep-learning-system/.
 
 
