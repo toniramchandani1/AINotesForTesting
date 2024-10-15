@@ -136,3 +136,32 @@
 - Retrieval-augmented generation - Wikipedia. https://en.wikipedia.org/wiki/Retrieval-augmented_generation.
 
 ---
+
+# List of tools for testing ai ml apps
+
+| **Tool**                       | **Application**                                                                                   |
+|---------------------------------|---------------------------------------------------------------------------------------------------|
+| **Giskard**                     | Automated testing for bias, fairness, robustness; integrates with CI/CD pipelines.                |
+| **DeepXplore**                  | White-box testing of deep learning models; finds incorrect behaviors under different conditions.   |
+| **SHAP**                        | Explaining model predictions by attributing feature importance.                                   |
+| **CleverHans**                  | Adversarial example testing for model robustness.                                                 |
+| **ART (Adversarial Robustness Toolbox)** | Securing AI models against adversarial attacks and enhancing model robustness.         |
+| **FOOLBOX**                     | Benchmarking adversarial robustness and model evaluation under attack scenarios.                  |
+| **LangChain**                   | Integrating LLMs and creating pipelines for generative model testing.                             |
+| **MLflow**                      | Tracking, comparing, and managing machine learning experiments and models.                        |
+| **Weights & Biases**            | Monitoring and visualizing model performance, logging experiments, and tracking metrics.          |
+| **Facets**                      | Visualizing and understanding dataset distributions and model performance.                       |
+| **TensorFlow Model Analysis**   | Provides tools for evaluating models, including fairness and performance analysis.                |
+| **DataRobot MLOps**             | Operationalizing machine learning models, monitoring, and automated testing in production.        |
+| **Deepchecks**                  | Open-source tool for data validation and model testing, including drift detection and fairness checks. |
+| **Great Expectations**          | Data validation and pipeline quality checks for ensuring consistent input data during model training. |
+| **TruEra**                      | Automated testing, model debugging, and explainability; ensures fairness and improves model quality. |
+| **LakeFS**                      | Version control for data lakes, allowing for reproducible data pipelines in machine learning projects. |
+| **Feast**                       | Open-source feature store that helps manage, store, and serve features for ML models in production. |
+| **Alibi Detect**                | Open-source library for drift detection, outlier detection, and model monitoring.                 |
+| **Seldon Core**                 | Machine learning deployment platform that supports monitoring and testing of production models.   |
+| **Kubeflow**                    | Manages ML workflows, model training, and serves models; useful for testing AI/ML pipelines.      |
+| **DeepMind’s Polycoder**        | Testing AI code generation and ensuring the quality of ML-based code generation models.           |
+| **H2O.ai Driverless AI**        | Automated machine learning platform focusing on model explainability, bias detection, and fairness. |
+| **Neptune.ai**                  | Experiment tracking tool for collaborative development and monitoring AI models in production.    |
+| **ExplainX.ai**                 | Focuses on model explainability and fairness, helping ensure transparent AI/ML decisions.         |
